@@ -6,7 +6,7 @@ def menu_admin(info):
     pass
 
 def menu_profesor(info):
-    print(f"\n📚 Bienvenido Profesor {info['nombre']}")
+    print(f"\n📚 Bienvenido Profesorr {info['nombre']}")
     # Aquí se incluirán las funciones específicas para el profesor
     pass
 
